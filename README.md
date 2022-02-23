@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ktminks
-- 👀 I’m interested in design & development of full-stack web apps
-- 🌱 I’m currently learning AWS, CI/CD, and the MERN stack
-- 💞️ I’m looking to collaborate on any small-to-medium scale project using React or the MERN stack
+- 👀 I’m interested in development of full-stack web apps
+- 🌱 I’m currently learning PHP, SEO, and Wordpress
+- 💞️ I’m looking to collaborate on any small-to-medium scale project using JavaScript
 - 📫 You can reach me here or by email at katie.minckler@gmail.com
 
 <!---
