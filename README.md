@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ktminks
-- 👀 I’m interested in development of full-stack web apps
-- 🌱 I’m currently writing a VS Code extension over at [ConfigMate](https://github.com/ConfigMate)
-- 💞️ I’m looking to network and/or collaborate on any TypeScript or Angular project
-- 🎓 I'm about to graduate! Seeking a remote postgrad position
+- 👀 I’m interested in front-end and full-stack development
+- 🌱 I’m currently designing a web app -- ask me about it!
+- 🤝I’m looking to network and/or collaborate on any JavaScript-based project
+- 💸 I'm seeking a full-time dev position
 - 📫 You can reach me here or by email at katie.minckler@gmail.com
 
 <!---
